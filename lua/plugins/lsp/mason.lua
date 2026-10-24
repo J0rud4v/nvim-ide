@@ -16,6 +16,7 @@ return {
         "typescript-language-server",
         "html-lsp",
         "pyright",
+        "ruff",                         -- Linter, formatter and more for py
         "debugpy",
         "angular-language-server",
         "some-sass-language-server",
