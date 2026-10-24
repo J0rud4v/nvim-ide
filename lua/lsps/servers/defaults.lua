@@ -9,6 +9,7 @@ local servers = {
   "html",
   "somesass_ls",
   "clangd",
+  "ruff",
 }
 
 for _, server in ipairs(servers) do
