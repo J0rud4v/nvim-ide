@@ -10,7 +10,8 @@ return {
     opts = {
       ensure_installed = {
         "vim", "lua", "vimdoc", "c", "cpp", "python", "java",
-        "javadoc", "yaml", "bash", "json", "angular", "html"
+        "javadoc", "yaml", "bash", "json", "angular", "html",
+        "markdown_inline", "markdown"
       },
       highlight = { enable = true },
       indent = { enable = true },
